@@ -1,3 +1,4 @@
-# browserify-sails
+sails-browserify-example
+========================
 
-a [Sails](http://sailsjs.org) application
+An example of how it works grunt in sails adding browserify, with React support
