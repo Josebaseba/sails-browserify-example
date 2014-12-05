@@ -3,7 +3,7 @@ sails-browserify-example
 
 An example of how it works grunt in sails adding browserify, with React support
 
-# USAGE
+# Usage
 
 Clone this repo and download with npm the packages:
 
@@ -21,7 +21,7 @@ Clone this repo and download with npm the packages:
 
 Check the assets/js/app.js file to see a small example.
 
-To modify the Browserify main file please modify in tasks/pipeline.js file (line 15) for the new main file path.
+To modify the Browserify main file please modify tasks/pipeline.js file (line 15) for the new main file path.
 
 ```
   var browserifyMainFile = '.tmp/public/js/app.js';
